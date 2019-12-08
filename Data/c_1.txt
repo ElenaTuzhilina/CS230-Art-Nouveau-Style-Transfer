@@ -1,0 +1,1 @@
+[{'box': [192, 188, 93, 121], 'confidence': 0.9992227554321289, 'keypoints': {'left_eye': (218, 234), 'right_eye': (264, 239), 'nose': (237, 265), 'mouth_left': (217, 277), 'mouth_right': (256, 281)}}]
